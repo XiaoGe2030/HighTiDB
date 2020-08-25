@@ -1,2 +1,2 @@
 # HighTiDB
-高性能tidb作业repo
+高性能tidb课程作业repo
