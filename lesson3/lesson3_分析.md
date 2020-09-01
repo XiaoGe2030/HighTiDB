@@ -4,9 +4,7 @@
 
 目前只用sysbench的三种方式进行了压测。通过对cpu profile的分析，发现cpu的占用较多的是读写操作，但怀疑是磁盘为机械硬盘的原因导致到。具体分析过程如下。
 
-![image-20200901234210713](C:\Users\liuxiao23\AppData\Roaming\Typora\typora-user-images\image-20200901234210713.png)
-
-​															
+![image-20200901234210713](picture\image-20200901234210713.png)
 
 ​																                              ***oltp_point_select的火焰图***
 
